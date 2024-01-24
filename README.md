@@ -1,6 +1,3 @@
-Certainly! If you want to create a README.md file to document the code you provided, here's a template you can use. You can include additional details or modify it according to your needs.
-
-```markdown
 # Logistic Regression Example
 
 This repository contains an example of Logistic Regression using Python, focusing on the Social Network Ads dataset. The goal is to predict whether a user purchased a product based on age, gender, and estimated salary.
@@ -68,12 +65,5 @@ Display the summary of the Statsmodels logistic regression model and print the e
 
 Clone the repository and run the Python script. Make sure to have the required libraries installed.
 
-```bash
-python *****.py
-```
 
 Feel free to modify and extend the code as needed.
-
-```
-
-You can save this content as a `README.md` file in the root of your project repository. It provides a quick overview of the project, its purpose, the dataset, and the steps involved in implementing Logistic Regression. Feel free to customize it further based on additional information or context specific to your project.
